@@ -1,11 +1,20 @@
 # tmp
 
 
-## Table of Contents
-- [Features](#features)
-- [Req](#req)
-- [Libraries & Requirements](#libraries--requirements)
 
+## Table of Contents
+- [Libraries & Requirements](#libraries--requirements)
+- [Features](#features)
+- [Compilation & Usage](#compilation--usage)
+- [Program Flow](#program-flow)
+- [Tests](#tests)
+- [Limitations & TODOs](#limitations--todos)
+- [Authors & Acknowledgement](#authors--acknowledgement)
+
+
+
+
+## Libraries & Requirements
   
 ## Features
 
@@ -27,8 +36,9 @@ dfd
 fd
 
 
+## Compilation & Usage
 
-
+vnkfnvfknfksnvdknvfkdsvdfskbvdksbvdskbvk
 
 
 
@@ -48,15 +58,23 @@ fd
 fd
 df
 
-
-
-# Req
-
-fdfdfd
+## Program Flow
 
 
 
 
+vdfdfdf
+
+
+## Tests
+
+dfdfdfdfsdfcsdxcv
+
+
+
+
+## Limitations & TODOs
+vddvdv
 
 
 
@@ -66,17 +84,9 @@ fdfdfd
 
 
 
+## Authors & Acknowledgement
 
 
 
-## Libraries & Requirements
 
-The librairies used in this application are *Eigen*, *GoogleTest* and *yaml-cpp*. They are all part of the repository as submodules.
-
-The requirements to run this application are as follows:
-
-- CMake: Minimum required version: 3.5.0
-- C++ Compiler: Support for C++20 standard
-- Doxygen (if documentation needs to be generated again) as well as the *graphviz* library for generating UML class diagrams in the documentation.
-- Git: for cloning and updating submodules.
 
